@@ -1,3 +1,3 @@
 # best-repo-ever
 Modified
-Adding more informarion for merge conflict
+These are the second branch changes for a conflict
